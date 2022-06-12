@@ -1,7 +1,7 @@
 #ifndef INC_TERM_INPUT_H_
 #define INC_TERM_INPUT_H_
 
-#include "adt/adt_ring_buffer.h"
+#include "ring_buffer.h"
 #include "main.h"
 
 void INPUT_BindTXRB(RingBuffer* txrb);
