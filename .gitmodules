@@ -1,0 +1,3 @@
+[submodule "external/stm_ringbuffer"]
+	path = external/stm_ringbuffer
+	url = https://github.com/hohfchns/stm_ringbuffer
